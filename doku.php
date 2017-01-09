@@ -7,7 +7,7 @@
  *
  * @global Input $INPUT
  */
-
+ 
 // update message version - always use a string to avoid localized floats!
 $updateVersion = "48.1";
 
